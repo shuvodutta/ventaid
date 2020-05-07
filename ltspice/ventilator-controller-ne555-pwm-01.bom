@@ -1,0 +1,25 @@
+--- Bill of Materials ---
+
+Ref.	Mfg.	Part No.	Description
+C1	--	--	capacitor, 10nF
+C2	--	--	capacitor, 10µF
+C4	--	--	capacitor, 10nF
+C5	Murata	GRMJN7R61C206ME05	capacitor, 20µF, 16V
+D1	OnSemi	1N4148	diode
+D2	OnSemi	1N4148	diode
+D3	OnSemi	1N4148	diode
+D4	Fairchild	QTLP690C	diode
+L1	--	--	inductor, 100mH, 1A pk
+Q1	NXP	2N2222	bipolar transistor
+Q3	NXP	2N2907	bipolar transistor
+R2	--	--	resistor, 144K
+R3	--	--	resistor, 210K
+R4	--	--	resistor, 2M, 1%, 0.1W
+R5	--	--	resistor, 78K
+R6	--	--	resistor, 10K
+R7	--	--	resistor, 10K
+R8	--	--	resistor, 144K
+R9	--	--	resistor, 332, 1%, 0.1W
+R14	--	--	resistor, 1M, 1%, 0.1W
+U1	(unknown)	NE555	(unknown 3rd party model)
+U2	(unknown)	NE555	(unknown 3rd party model)
